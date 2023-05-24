@@ -1,0 +1,23 @@
+{
+  "projectId": "646d6d922f2554380df9",
+  "projectName": "General",
+  "functions": [
+    {
+      "$id": "646d6fef450ee9338562",
+      "name": "getGitFeatures",
+      "runtime": "node-16.0",
+      "path": "functions/getGitFeatures",
+      "entrypoint": "src/index.js",
+      "ignore": [
+        "node_modules",
+        ".npm"
+      ],
+      "execute": [
+        "any"
+      ],
+      "events": [],
+      "schedule": "",
+      "timeout": 15
+    }
+  ]
+}
